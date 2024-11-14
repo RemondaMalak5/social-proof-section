@@ -1,0 +1,60 @@
+h1{
+ font-size: 50px;
+ color: hsl(300, 43%, 22%);
+ font-weight: bold;
+ width: 65%;
+ 
+ 
+}
+
+.paragraph{
+    color: hsl(303, 10%, 53%);
+    font-weight: 400;
+    width: 70%;
+    
+}
+
+.rate{
+    position: absolute;
+    width: 65%;
+    height: 15%;
+    background-color:  hsl(300, 24%, 96%);
+}
+
+.rate2{
+    position: absolute;
+    left: 7%;
+    top: 20%;
+}
+
+.rate3{
+    position: absolute;
+    left: 15%;
+    top: 40%;
+}
+
+.rate i{
+    color: rgb(360, 205, 109);
+    padding: 2px;
+}
+.rate.p{
+  color: hsl(303, 10%, 53%);
+  font-weight: 400;
+  font-size: 15px;
+  font-family: League Spartan;
+}
+.card_1{
+    width: 90%;
+    background-color: hsl(300, 43%, 22%);
+    color: white;
+}
+
+
+
+.card_title{
+    color: hsl(333, 80%, 67%);
+}
+
+span{
+    width: 20px;
+}
